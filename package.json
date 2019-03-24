@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/takamin/jszip-prefix.git"
   },
-  "keywords": [],
+  "keywords": ["ZIP", "prefix"],
   "author": "Koji Takami <vzg03566@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/takamin/jszip-prefix#readme",
