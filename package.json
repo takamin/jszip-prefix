@@ -1,6 +1,6 @@
 {
   "name": "jszip-prefix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jszip-prefix",
   "main": "index.js",
   "bin": {
@@ -13,17 +13,20 @@
     "type": "git",
     "url": "git+https://github.com/takamin/jszip-prefix.git"
   },
-  "keywords": ["ZIP", "prefix"],
+  "keywords": [
+    "ZIP",
+    "prefix"
+  ],
   "author": "Koji Takami <vzg03566@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/takamin/jszip-prefix#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.0.2"
+    "mocha": "^6.1.4"
   },
   "dependencies": {
     "hash-arg": "^0.3.3",
-    "jszip": "^3.2.0",
+    "jszip": "^3.2.1",
     "node-getopt": "^0.3.2",
     "node-glob": "^1.2.0"
   },
