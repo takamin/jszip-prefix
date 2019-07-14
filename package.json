@@ -1,6 +1,6 @@
 {
   "name": "jszip-prefix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jszip-prefix",
   "main": "index.js",
   "bin": {
@@ -25,8 +25,8 @@
     "mocha": "^6.1.4"
   },
   "dependencies": {
-    "hash-arg": "^0.3.3",
-    "jszip": "^3.2.1",
+    "hash-arg": "^0.3.4",
+    "jszip": "^3.2.2",
     "node-getopt": "^0.3.2",
     "node-glob": "^1.2.0"
   },
