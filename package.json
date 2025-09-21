@@ -22,11 +22,11 @@
   "homepage": "https://github.com/takamin/jszip-prefix#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "hash-arg": "^0.3.4",
-    "jszip": "^3.2.2",
+    "jszip": "^3.10.1",
     "node-getopt": "^0.3.2",
     "node-glob": "^1.2.0"
   },
