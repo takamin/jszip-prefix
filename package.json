@@ -1,6 +1,6 @@
 {
   "name": "jszip-prefix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jszip-prefix",
   "main": "index.js",
   "bin": {
